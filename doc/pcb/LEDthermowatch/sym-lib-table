@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "BartLib_Sensors")(type "KiCad")(uri "/home/bartosz/projekty/arm/thermoWatch/doc/pcb/Mk2/LEDnode/BartLib_Sensors.kicad_sym")(options "")(descr ""))
+  (lib (name "BartLib_Supply")(type "KiCad")(uri "/home/bartosz/projekty/arm/thermoWatch/doc/pcb/Mk2/LEDnode/BartLib_Supply.kicad_sym")(options "")(descr ""))
+)
